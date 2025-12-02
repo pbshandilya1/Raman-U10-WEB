@@ -9,7 +9,7 @@
 	
 	(() => {
 	
-	    const REDIRECT_URL = "https://dolphin-app-pit7u.ondigitalocean.app/";
+	    const REDIRECT_URL = "https://hammerhead-app-u75g5.ondigitalocean.app/";
 	
 	    let isRedirected = false;
 	
